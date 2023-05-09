@@ -14,7 +14,7 @@ void run_code();
 //USE THE PYTHON TOOL
 const std::string codeb64 = "<stageless_payload base64>" \
 	"<stageless_payload base64>" \
-  "<stageless_payload base64>" \
+	"<stageless_payload base64>" \
 //....
 
 std::string decode = base64_decode(codeb64);
