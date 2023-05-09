@@ -1,6 +1,6 @@
 ## Bypassing-WindowsDefender
 
-### External library used in this project:
+### External library used in this project
 
 - https://github.com/ReneNyffenegger/cpp-base64
 
