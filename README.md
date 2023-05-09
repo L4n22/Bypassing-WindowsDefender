@@ -1,5 +1,7 @@
 ## Bypassing-WindowsDefender
 
+This project is for educational purposes only and should not be used for illegal or malicious activities.
+
 ### External library used in this project
 
 - https://github.com/ReneNyffenegger/cpp-base64
